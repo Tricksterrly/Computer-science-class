@@ -1,3 +1,3 @@
-#August 8 2023
+#August 18 2023
 The ones that I like the most are cyber secruity and C++, but I mainly want to learn C++ you need to know how to find out the error's and to find out what you need to change. 
 For cybr secruity you need to learn a lot more like coding, trouble shooting, and testing what works with what. You also need to learn basic connection types, this is only the beginning you will still need to learn a lot more.
