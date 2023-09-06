@@ -4,3 +4,6 @@ For cybr secruity you need to learn a lot more like coding, trouble shooting, an
 
 #August 23 2023
 I am on lesson 2.4 so far. and tought the dog to turn right with a bit of trouble but got it in the end.
+
+#Steptmeber 6 2023
+Am on digging karel and want to finish 2.6 by the 16th.
