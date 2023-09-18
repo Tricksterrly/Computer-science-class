@@ -10,3 +10,6 @@ Am on digging karel and want to finish 2.6 by the 26th.
 
 #Stemtmber 11 2023
 I am now doing code battle and it is fun.
+
+#Stemtmber 18 2023
+Cotunining with karel I am going to see if I can get to aleast 3.0 by the end of the week.
