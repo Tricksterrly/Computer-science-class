@@ -13,3 +13,6 @@ I am now doing code battle and it is fun.
 
 #Stemtmber 18 2023
 Cotunining with karel I am going to see if I can get to aleast 3.0 by the end of the week.
+
+#October 4 2023 
+We mess with car and learn how to move it with code.
