@@ -16,3 +16,6 @@ Cotunining with karel I am going to see if I can get to aleast 3.0 by the end of
 
 #October 4 2023 
 We mess with car and learn how to move it with code.
+
+#october 16 2023
+Learn how to move car with code.
