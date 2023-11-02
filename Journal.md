@@ -19,3 +19,23 @@ We mess with car and learn how to move it with code.
 
 #october 16 2023
 Learn how to move car with code.
+```phthon
+from zumi.zumi import Zumi
+import time
+
+import IPython.display
+zumi = Zumi()
+zumi.reset_drive()
+zumi.forward(duration=1.9)
+zumi.turn_right()
+zumi.forward(duration=1.55)
+zumi.turn_right(desired_angle=-90)
+zumi.reset_drive()
+zumi.forward(duration=1.6)
+zumi.turn_left(50)
+zumi.forward(duration=0.5)
+zumi.turn_left(40)
+zumi.forward(duration=0.7)
+zumi.turn_left(90)
+zumi.forward(duration=1.8)
+```
